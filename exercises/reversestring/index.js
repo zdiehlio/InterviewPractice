@@ -11,3 +11,6 @@ function reverse(str) {
 }
 
 module.exports = reverse;
+
+//TEST - to test your function copy and paste the command below into the terminal, ensure you are in the exercises folder
+//jest reversestring/test.js

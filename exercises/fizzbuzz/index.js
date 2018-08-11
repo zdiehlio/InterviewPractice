@@ -15,3 +15,6 @@
 function fizzBuzz(n) {}
 
 module.exports = fizzBuzz;
+
+//TEST - to test your function copy and paste the command below into the terminal, ensure you are in the exercises folder
+//jest fizzbuzz/test.js

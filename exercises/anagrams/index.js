@@ -12,3 +12,6 @@
 function anagrams(stringA, stringB) {}
 
 module.exports = anagrams;
+
+//TEST - to test your function copy and paste the command below into the terminal, ensure you are in the exercises folder
+//jest anagrams/test.js
